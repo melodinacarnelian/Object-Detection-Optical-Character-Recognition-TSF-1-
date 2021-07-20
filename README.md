@@ -1,0 +1,2 @@
+# Object-Detection-Optical-Character-Recognition-TSF-1-
+This is my Task #1 Submission For LOR For Data Science and Business Analytics Internship at The Sparks Foundation. I am glad to share that I have completed #task1 for LOR of my Internship with The Sparks Foundation under the Graduate Rotational Internship Program (GRIP).  Objective: Object Detection / Optical Character Recognition (ORC) 1) Implement an object detector which identifies the classes of the objects in an image or video.  Programming Language - Python
